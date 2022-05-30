@@ -1,0 +1,39 @@
+.card-body{
+    margin-left:2px;
+    margin-bottom:1px;
+}
+
+.card{
+    margin-left:250px;
+    margin-right:250px;
+}
+
+.form-group{
+    margin:11px;
+    margin-left: 10px;
+}
+
+
+.strings{
+    margin-right: 320px;
+}
+
+.strings1{
+    margin-right:410px
+}
+
+.strings2{
+    margin-right: 90px
+}
+
+.strings3{
+    margin-right:200px
+}
+
+.btn{
+    margin:5px;
+    color: #fff;
+    background-color: #000000;
+    border-color: #28a745;
+}
+
